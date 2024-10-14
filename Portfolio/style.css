@@ -1,0 +1,114 @@
+nav{
+    height: 100px;
+    background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+    color: white;
+    padding-top: 25px;
+    padding-bottom: 0px;
+    text-align: right;
+}
+.a1 {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    border: solid 3px white;
+    border-radius: 10px;
+    margin: 5px;
+}
+li{  
+    float: right;
+    margin: auto;
+    padding-top: 25px;
+    padding-right: 5px;
+}
+img{
+    margin-left: 600px;
+    margin-right: 300px;
+    margin-top: 10px;
+    border-radius: 100px;
+}
+h1,p{
+    text-align: center;
+}
+.gradient {
+    background: -webkit-linear-gradient(135deg, #8929ad, #436aac, #43b7b8);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+footer{
+    background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+    color: white;
+    text-align: center;
+    padding: 10px;
+    bottom: 0;
+    width: 100%;
+}
+.ABOUT{
+    background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+    color: white;
+    text-align: center;
+
+    padding: 100px;
+    bottom: 0;
+    PADDING-TOP: 100PX;
+    margin-top: 50PX;
+    margin-left: 500PX;
+    margin-bottom: 0px;
+    width: 400PX;
+    border-radius: 20px;
+}
+.i2{
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 5px;
+    margin: auto;
+    padding: 5px;
+    align: center;
+    
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+h3{
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    
+}
+.EDU{
+   margin-left: 650PX;
+   margin-RIGHT:500PX ;
+}
+/*
+.EDUCA{
+    background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+    color: black;
+    text-align: LEFT;
+    padding: 100px;
+    bottom: 0;
+    PADDING-TOP: 30PX;
+    padding-bottom: 30px;
+    padding-right: 60px;
+    margin-top: 0PX;
+    margin-left: 450PX;
+    width: 500PX;
+} */
+/* .t1{
+    text-decoration: none;
+    padding: auto;
+    margin-left: 100px;
+}
+.im{
+    display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 100px;
+    border-radius: 100px;
+}*/
+
+/* .flex{
+    
+    margin-left: 30px;
+    padding: 10px;
+    
+}  */
